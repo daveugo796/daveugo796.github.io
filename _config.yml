@@ -40,7 +40,7 @@ author: Daveugo
 #   "Copyright (c) 2017-{currentYear} <a href="https://example.com">{author}</a>"
 #   "Copyright © 2017-2021 Foobar"
 #
-copyright: "Unpublished Work (cleft) 2022-{currentYear} {author}"
+copyright: "Unpublished Work (cleft) -{currentYear} {author}"
 
 description: >- # With 10 years fitness and Modeling experience, I consider fitness as simply a part of my life and story. Nowhere finished and still going strong.
 
