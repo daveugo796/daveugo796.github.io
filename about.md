@@ -20,4 +20,7 @@ The gym can surely be a fun place. It is a world away from the world.
 
 I work as a fitness trainer/ Online fitness coach, lifecoach, fitness models alongside other business interests. 
 
+## Contact
 
+To see my fitness work or for collaborateions, follow and contact me on instagram; daveugo769
+Email: davidugonna441@gmail.com
