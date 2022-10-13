@@ -16,8 +16,6 @@ tags: [github, fitness, model]
 
 ![GSN](/assets/images/banners/GSN_3134.jpg)
 
-![GSN](/assets/images/banners/GSN_3144.jpg)
-
 ![GSN](/assets/images/banners/GSN_3170.jpg)
 
 ![GSN](/assets/images/banners/GSN_3176.jpg)
