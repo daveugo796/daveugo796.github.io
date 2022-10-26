@@ -23,5 +23,5 @@ I work as a fitness trainer/ Online fitness coach, lifecoach, fitness models alo
 
 ## Contact
 
-To see my fitness work or for collaborateions, follow and contact me on instagram @ "daveugo769"
+To see my fitness work or for collaborations, follow and contact me on instagram <a target="_blank" href="https://www.instagram.com/daveugo769/">@daveugo769</a>
  Email: davidugonna441@gmail.com
